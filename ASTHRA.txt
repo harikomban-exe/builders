@@ -1,0 +1,71 @@
+TEAM NAME: BUILDERS
+TEAM MEMBERS :
+HASEEB AHAMMED A
+MUHAMMED FAWAS S
+ASTHRA — Project Description
+
+
+ASTHRA is a modern, responsive frontend website designed for a college technology and cultural fest. The project focuses on creating an engaging digital experience with a strong visual identity, smooth interactions, responsive layouts, and easy navigation across multiple sections.
+
+The website was developed as a fully functional static frontend without a backend, database, authentication, or login system. The main focus was on UI/UX design, responsive frontend development, reusable components, interactive animations, and overall visual polish.
+
+Pages Developed:
+
+1. Home Page
+The Home page introduces ASTHRA through a bold hero section featuring the ASTHRA logo, tagline, and Explore CTA. It also includes the Mission & Vision section, a highlighted quote section, and social/email information in the footer. The hero includes a scroll-controlled logo transformation and interactive mouse effects to create a modern and immersive first impression.
+
+2. Activities Page
+The Activities page showcases previous ASTHRA activities in a responsive card-based layout. Each activity contains an image, title, date, and short description. The page includes hover interactions, scroll-reveal animations, and responsive layouts for desktop, tablet, and mobile devices.
+
+3. Activity Details Page
+The Activity Details page dynamically displays detailed information for a selected activity. It includes the activity title, date, cover image, full description, additional images, and a back-to-activities navigation control.
+
+4. Newsletters Page
+The Newsletters page presents ASTHRA newsletters using visually consistent cards containing cover images, titles, dates, and descriptions. Users can select a newsletter to view its complete details.
+
+5. Newsletter Details Page
+The Newsletter Details page displays the selected newsletter's cover image, title, date, description, and a Download PDF action. It also includes navigation back to the newsletters listing.
+
+6. Committee Page
+The Committee page presents committee members grouped by year, with the current year displayed first. Each member card includes a photo/placeholder, name, position, and LinkedIn link.
+
+Technology and Tools Used:
+
+- React — frontend application development
+- JavaScript — application logic and interactions
+- HTML5 — semantic page structure
+- CSS / responsive styling — layouts and visual design
+- React Router — navigation between pages and dynamic detail routes
+- GSAP — animation engine
+- GSAP ScrollTrigger — scroll-based animations and transitions
+- Google Fonts — typography
+- Unsplash / Pexels / image placeholders — visual assets and thematic imagery
+
+Key Features:
+
+- Fully responsive desktop and mobile design
+- Shared navigation bar and footer
+- Reusable card and member components
+- Dynamic activity detail pages
+- Dynamic newsletter detail pages
+- Smooth page navigation
+- Scroll-triggered animations
+- Interactive mouse-pointer effects
+- Hover animations and micro-interactions
+- Responsive mobile navigation
+- Consistent typography, spacing, colors, and button styles
+- Optimized visual hierarchy and image presentation
+- Accessible and user-friendly interface
+
+Animation and Interaction:
+
+The website uses GSAP and ScrollTrigger to create purposeful animations throughout the interface. Sections and cards reveal smoothly as they enter the viewport using fade, slide-up, and scale effects. The Home page includes a distinctive scroll-driven ASTHRA logo transformation from a dark state into the fully illuminated colored logo, followed by the ASTHRA wordmark. Additional mouse-pointer interactions provide subtle parallax, glow, and hover effects.
+
+Design Approach:
+
+The design follows a modern, premium, technology-focused visual direction with strong typography, controlled color usage, generous spacing, responsive grids, professional imagery, and subtle micro-interactions. The objective was to create an original interface that feels both youthful and sophisticated while maintaining consistency across all pages.
+
+Project Objective:
+
+The objective of ASTHRA was to create a complete, polished, and competition-ready frontend experience that combines modern UI/UX principles, responsive development, reusable components, interactive animation, and strong visual storytelling.
+ 
