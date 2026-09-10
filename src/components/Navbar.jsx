@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { NavLink, Link } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
+import logoImg from '../assets/logo.jpg';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -27,7 +28,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center gap-3 group">
             <div className="h-10 w-10 overflow-hidden rounded-full border border-primary/20 shadow-sm transition-transform duration-300 group-hover:scale-105">
-              <img src="/logo.jpg" alt="ASTHRA Logo" className="h-full w-full object-cover" />
+              <img src={logoImg} alt="ASTHRA Logo" className="h-full w-full object-cover" />
             </div>
             <span className="text-2xl font-display font-bold tracking-wider text-primary">
               ASTHRA
